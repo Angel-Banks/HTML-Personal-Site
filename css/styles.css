@@ -2,6 +2,7 @@ body {
   background-color: #EAF6F6;
 }
 
+
 hr {
 
   border-color: grey;
@@ -13,4 +14,8 @@ hr {
 
 h1, h3 {
   color: #66BFBF;
+}
+
+.angela-pic {
+  height: 150px;
 }
